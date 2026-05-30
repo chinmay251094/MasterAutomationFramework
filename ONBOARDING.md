@@ -11,6 +11,8 @@ For detailed sample execution steps, read `docs/HOW_TO_RUN_SAMPLE_TESTS.md`.
 
 For a beginner-friendly guide to adding new UI, API, and hybrid tests, read `docs/NEW_TEST_AUTHOR_GUIDE.md`.
 
+For running only selected tests and injecting external test data, read `docs/TEST_SELECTION_AND_DATA_GUIDE.md`.
+
 For guidance on configuring UI and API URLs in each team's isolated framework copy, read `docs/MULTI_APPLICATION_URL_CONFIGURATION.md`.
 
 ## Setting Up A Team Repository

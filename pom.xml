@@ -14,6 +14,8 @@
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <tags></tags>
+        <excludeTags></excludeTags>
         <playwright.version>1.52.0</playwright.version>
         <junit.version>5.12.2</junit.version>
         <junit.platform.version>1.12.2</junit.platform.version>
@@ -123,6 +125,7 @@
                         <allure.results.directory>${project.build.directory}/allure-results</allure.results.directory>
                     </systemPropertyVariables>
                     <groups>${tags}</groups>
+                    <excludedGroups>${excludeTags}</excludedGroups>
                 </configuration>
             </plugin>
             <plugin>

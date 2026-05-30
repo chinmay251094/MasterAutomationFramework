@@ -111,6 +111,8 @@ For application team URL setup, see `docs/MULTI_APPLICATION_URL_CONFIGURATION.md
 
 For step-by-step test authoring, see `docs/NEW_TEST_AUTHOR_GUIDE.md`.
 
+For tag-based execution and external test data patterns, see `docs/TEST_SELECTION_AND_DATA_GUIDE.md`.
+
 ## Troubleshooting
 
 | Symptom | Action |

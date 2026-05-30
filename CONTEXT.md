@@ -23,6 +23,7 @@ Phase 1 design documentation and a Phase 2 foundation have been scaffolded. The 
 - GitHub Actions, Jenkinsfile, Dockerfile, Docker Compose, SonarQube properties, and dependency-check configuration through Maven.
 - Sample execution runbook at `docs/HOW_TO_RUN_SAMPLE_TESTS.md`.
 - Beginner test authoring guide at `docs/NEW_TEST_AUTHOR_GUIDE.md`.
+- Test selection and external test data guide at `docs/TEST_SELECTION_AND_DATA_GUIDE.md`.
 - Application team UI/API URL configuration guide at `docs/MULTI_APPLICATION_URL_CONFIGURATION.md`.
 
 ## Pending Modules
@@ -94,6 +95,7 @@ automation-platform
 - 2026-05-30: Added step-by-step sample test execution guide.
 - 2026-05-30: Updated URL strategy to one isolated framework copy per application team, avoiding central multi-application clutter.
 - 2026-05-30: Added simple step-by-step guide for new team members adding UI, API, and hybrid tests.
+- 2026-05-30: Added `excludeTags` Maven switch and documentation for selective execution and external test data.
 
 ## Known Risks
 
