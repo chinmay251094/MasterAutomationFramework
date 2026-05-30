@@ -1,0 +1,15 @@
+services:
+  automation-platform:
+    build: .
+    environment:
+      ENV: qa
+    volumes:
+      - ./target:/workspace/target
+    command: mvn -B test -Denv=qa -Dheadless=true
+
+  sonarqube:
+    image: sonarqube:community
+    ports:
+      - "9000:9000"
+    environment:
+      SONAR_ES_BOOTSTRAP_CHECKS_DISABLE: "true"

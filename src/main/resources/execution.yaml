@@ -1,0 +1,13 @@
+execution:
+  browser: chromium
+  headless: true
+  timeoutMs: 30000
+  retries: 1
+  viewport:
+    width: 1440
+    height: 900
+  artifacts:
+    screenshotOnFailure: true
+    video: retain-on-failure
+    trace: retain-on-failure
+    har: false

@@ -1,0 +1,22 @@
+environments:
+  dev:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  qa:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  sit:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  uat:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  perf:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  stage:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com
+  prod:
+    baseUrl: https://example.com
+    apiBaseUrl: https://api.example.com

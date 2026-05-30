@@ -1,0 +1,6 @@
+platform:
+  name: automation-platform
+  version: 1.0.0-SNAPSHOT
+  defaultEnvironment: qa
+  reportsDirectory: target/reports
+  artifactsDirectory: target/artifacts
