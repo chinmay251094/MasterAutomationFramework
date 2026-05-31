@@ -113,6 +113,8 @@ For step-by-step test authoring, see `docs/NEW_TEST_AUTHOR_GUIDE.md`.
 
 For tag-based execution and external test data patterns, see `docs/TEST_SELECTION_AND_DATA_GUIDE.md`.
 
+For isolated public-site reference samples, see `docs/EXTERNAL_REFERENCE_SAMPLE_CASES.md`.
+
 ## Troubleshooting
 
 | Symptom | Action |

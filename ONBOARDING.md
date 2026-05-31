@@ -13,6 +13,8 @@ For a beginner-friendly guide to adding new UI, API, and hybrid tests, read `doc
 
 For running only selected tests and injecting external test data, read `docs/TEST_SELECTION_AND_DATA_GUIDE.md`.
 
+For runnable external UI/API reference samples, read `docs/EXTERNAL_REFERENCE_SAMPLE_CASES.md`.
+
 For guidance on configuring UI and API URLs in each team's isolated framework copy, read `docs/MULTI_APPLICATION_URL_CONFIGURATION.md`.
 
 ## Setting Up A Team Repository
